@@ -5,4 +5,4 @@ number = int(input("Enter a natural number: "))
 tens_place = (number // 10) % 10
 
 # Print the result using f-string
-print(f"The tens place digit of {number} is {tens_place}")
+print(f"The tens place digit of {number} is {tens_place}") 
