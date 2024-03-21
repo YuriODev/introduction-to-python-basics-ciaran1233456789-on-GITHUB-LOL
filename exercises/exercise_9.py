@@ -1,2 +1,5 @@
 # Exercise 9
-# Your solution comes here
+hours = int(input("Enter hours"))
+mins = int(input("Enter mins"))
+secs = int(input("Enter secs"))
+
